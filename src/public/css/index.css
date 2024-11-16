@@ -1,0 +1,18 @@
+.product__header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.product__title {
+    font-size: 25px;
+}
+
+.product__register {
+    padding: auto 0;
+}
+
+.product__register--button {
+    display: flex;
+    align-items: center;
+    background-color: #ffa829;
+}
